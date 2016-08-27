@@ -1,2 +1,2 @@
 # php-elevator
-if else example 
+simple exercise illustrating php if else conditionals using an elevator example.
